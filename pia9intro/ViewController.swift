@@ -27,7 +27,7 @@ class ViewController: UIViewController {
 
     @IBAction func clickingButton(_ sender: Any) {
         
-        theTextThing.text = "Klickat på knapp"
+        theTextThing.text = "Klickat på knapp!"
         
     }
     
