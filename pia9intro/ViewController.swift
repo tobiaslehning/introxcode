@@ -19,7 +19,7 @@ class ViewController: UIViewController {
         
         
         
-        theTextThing.text = "Start av app"
+        theTextThing.text = "Start av app!"
         
         
     }
